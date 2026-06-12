@@ -1,0 +1,1 @@
+# Homebrew release management for lgx
